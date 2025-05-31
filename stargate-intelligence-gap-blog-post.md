@@ -31,7 +31,7 @@ Let me paint two futures for you. They're only 18 months apart.
 - Works 70-hour weeks just to keep up
 - Competes on price because outcomes are inconsistent
 
-**Dr. B's Practice (Rex Spheres Enhanced):**
+**Dr. B's Practice (RepSpheres Enhanced):**
 - AI pre-analyzes every patient against 15 years of enriched outcome data
 - Identifies ideal candidates with 94% accuracy before consultation
 - Suggests optimal treatment combinations based on 300+ AI models
