@@ -1,6 +1,6 @@
 # While They Build $500B Data Centers, You're Still Using Excel: The Intelligence Gap That's About to Swallow Your Practice
 
-*By Jason Golden, Founder & CEO, Rex Spheres*
+*By Jason Golden, Founder & CEO, RepSpheres*
 
 ---
 
