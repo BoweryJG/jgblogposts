@@ -14,7 +14,7 @@ The gap between the AI haves and have-nots isn't growing gradually—it's explod
 
 Larry Ellison compared AI to electricity—a horizontal enabling layer that transforms everything it touches. He's right. But here's what he didn't say: while they're building the power plants, someone needs to build the transformers that actually deliver that power to your practice.
 
-That's exactly what we've done at Rex Spheres.
+That's exactly what we've done at RepSpheres.
 
 OpenAI builds for everyone. Google builds for everyone. We built for **you**.
 
